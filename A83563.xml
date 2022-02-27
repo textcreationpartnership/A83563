@@ -1,0 +1,171 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>One blow at the feet of the imposing formal Quaker's image: or, Rather an epistle of love and good will to them, to shew them their great weakness (if not folly) in saying thee and thou ... / writ by Nich. Eed ...</title>
+            <author>Eed, Nich.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83563</idno>
+            <idno type="STC">Wing E241B</idno>
+            <idno type="STC">ESTC R171910</idno>
+            <idno type="EEBO-CITATION">45789279</idno>
+            <idno type="OCLC">ocm 45789279</idno>
+            <idno type="VID">172592</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83563)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172592)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2640:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>One blow at the feet of the imposing formal Quaker's image: or, Rather an epistle of love and good will to them, to shew them their great weakness (if not folly) in saying thee and thou ... / writ by Nich. Eed ...</title>
+                  <author>Eed, Nich.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and are to be sold by J. Gwillim ... and Edw. Swaine ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"January the 7th. 1692/3. This may be printed, Ed. Bohun."</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England --  Doctrines --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:172592:1" rendition="simple:additions"/>
+            <head>One Blow at the Feet of the Impoſing Formal <hi>Quaker's Image:</hi> or rather an Epiſtle of Love and good Will to them, to ſhew them their great Weakneſs (if not Folly) in ſaying <hi>Thee</hi> and <hi>Thou;</hi> and alſo for not putting off the Hat, and not paying of Tyths; Writ by <hi>Nich. Eed,</hi> one of their Society, until <hi>J. Kilburne,</hi> and <hi>N. Geats</hi> (two Preachers) were moved by a Proud and Lying Spirit, to caſt great Re<g ref="char:EOLhyphen"/>proachful Lies upon me, which they in Juſtice (which is one of the leaſt Marks of a true Chriſtian) ought to make out their Aſſertions, or elſe to acknowledge their Failings; which I have long ago laid before them in Print.</head>
+            <head type="sub">January <hi>the</hi> 7th. 1692/3. This may be Printed, <hi>Ed. Bohun.</hi>
+            </head>
+            <p>A Few Words, by way of Counſel and Advice (for the pre<g ref="char:EOLhyphen"/>ſent time) to the <hi>Quakers</hi> in general; but more particular<g ref="char:EOLhyphen"/>ly to all the honeſt, upright-hearted, and younger ſort, whether young in Years, or lately convinced; and may juſtly ſerve for a Reproof for the High and Lofty, Proud Formal Hy<g ref="char:EOLhyphen"/>pocrites among them, which are, through a fiery Zeal, ſo fierce for their outward Orders, that all which come not to take up a Profeſ<g ref="char:EOLhyphen"/>ſion of theſe three things, and ſeveral others, are judged unworthy to be received into their Church-Fellowſhip or Body, though other wiſe never ſo honeſt, yet without a due Obſervation of theſe things, according to their Preſcriptions to many of them, do hold forth by their Judgment, that a Perſon can never come to have true inward Fellowſhip, with the Inviſible Head, and only Saviour of the World</p>
+            <pb n="2" facs="tcp:172592:2"/>
+            <p>
+               <hi>Firſt,</hi> Concerning <hi>Thee</hi> and <hi>Thou,</hi> the Quakers themſelves, as well as the general part of <hi>Chriſtendom,</hi> do declare and hold forth, that the Soul is Immortal, and the Body is Mortal; then I pray, may not I believe, and alſo ask the moderate <hi>Quakers,</hi> whether there be not two Beings in every Man and Woman; and then ſeeing it is ſo by their Judgment, whether it be not according to the Form of ſound Words, to ſay <hi>You</hi> to a Man or Woman, tho' a thing they do mightily exhort their Hearers againſt, often telling them, Keep to the form of ſound Words, uſe plain Language, and ſtand in the Croſs to thy own Will, (in theſeſmall things) or elſe thou wilt never come to inherit the Crown; and it may be, tell them, (I will not ſay a great Lye) This is the Word of the Lord to thee, whoſoever thou art that art guilty in ſhunning the Croſs; and then ſay, I accuſe no particular, but ſpeak the Truth to all, as Love opens and ſprings in my Heart, that thou maiſt not flee the Croſs, and miſs the Bleſſing, and end thy Days in Sorrow. If the <hi>Quakers</hi> Object, and ſay, The Soul and Body being united together, make but one Being and Perſon; and therefore we cannot ſpeak the Truth to our Neighbour, if we ſay <hi>You</hi> to one; and the Scripture uſeth no ſuch Cuſtom, as for what is uſed in the Scriptures, you know, many of you have in publick Teſtimonies, and in Print, denied that to be the Rule of Faith and Life, yet the Scriptures do not <hi>make a Man an Offender for a Word;</hi> for God look<g ref="char:EOLhyphen"/>eth more at the Truth and Sincerity of the Heart, than the outſide ſhew.</p>
+            <p>Again, If they object, and ſay, We know the old Man, put off with his Deeds, and the fleſhly part is Crucified. <hi>Anſwer,</hi> I know Hypocrites were always as ready to juſtifie themſelves as <hi>You,</hi> and I knew ſome Preachers (and heard of many) counted very Eminent and Antient among you, that were as ready to juſtifie themſelves as you, which were ſo viciouſly given to Women, that they had great Bellies laid to them, which would not have been done, if their Fleſh had been Crucified.</p>
+            <p>Now <hi>Paul</hi> did not ſpeak ſo highly of himſelf, as tho' he had <hi>alrea<g ref="char:EOLhyphen"/>dy attained to the Reſur<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ection,</hi> but ſaid, <hi>I labour to keep my Body under, and to bring it in Subjection,</hi> leſt <hi>when I have Preach'd the Goſpel to o<g ref="char:EOLhyphen"/>thers, I my ſelf ſhould be a caſt away;</hi> at firſt, ſome pretended the Spi<g ref="char:EOLhyphen"/>rit led them into Yea and Nay; then what Spirit was that which led them out of it again? Yet I do not blame you in this, for words at beſt ſhould ſignifie nothing but a true Declaration of the Heart and Mind. Concerning the putting off your Hat, what Scripture can be ſhewn againſt ſuch a civil Reſpect among People, where it
+<pb n="3" facs="tcp:172592:2"/> hath been ſo long uſed? The Scripture ſaith, <hi>Give no Offence to Jew nor Gentile,</hi> &amp;c. as much as in you lieth; but this hath given Offence to many. Now the Scripture ſaith, <hi>Honour all Men, love the Brother<g ref="char:EOLhyphen"/>hood, Fear God,</hi> and <hi>Honour the King;</hi> yet I believe true Honour does ſtand and conſiſt in a true Love, and willing Obedience one to ano<g ref="char:EOLhyphen"/>ther in all Juſt Commands and Requirings. This is true Honour, thus to ſerve one another in Love, and thus to ſerve our chief Magiſtrate and his Miniſters under him; this is according to God's Ordinance; but this putting off the Hat is but an outward ſhew, or civil Reſpect, which one may have towards another, (without the Breach of any Law, or Command of God that ever I knew of) but the true Ho<g ref="char:EOLhyphen"/>nour is a more inward thing. Now put the Caſe thus, that a Man may paſs quietly about his Buſineſs, if he obſerve and perform this civil Reſpect which they do require of their Apprentices and Servants, tho' they will not give it to the King: But if any ſay to me, when <hi>John</hi> fell down at the Angel's Feet to worſhip him, the Angel forbid him, and ſaid, <hi>See thou do it not, for I am thy Fellow-Servant.</hi> But this is no thing to my Diſcourſe, I am not Pleading for one to worſhip ano<g ref="char:EOLhyphen"/>ther, but only for that civil Reſpect, which may be given one to a<g ref="char:EOLhyphen"/>nother, without falling down as to an Image to worſhip; this was as true from the beginning, as when the Angel ſpoke it to <hi>John;</hi> for the Lord was only to be worſhiped. But did <hi>Jacob</hi> tranſgreſs a<g ref="char:EOLhyphen"/>gainſt God (think you) when <hi>he bowed his Body to the Grouud to his elder Brother,</hi> and <hi>his Hand-maids</hi> and <hi>Wives bowed to him alſo, Gen.</hi> 33. and when <hi>Jacob</hi> taught his Servants to ſay, <hi>It is a Preſent ſent unto my Lord Eſau,</hi> do you think he ſinned in all this? <hi>Gen.</hi> 32. 18. and when <hi>David</hi> had <hi>Saul</hi> at his Mercy, and alſo had the Pro<g ref="char:EOLhyphen"/>miſe of the Kingdom, yet he ſaid, <hi>I will not put forth my Haad againſt my Lord. 1 Sam.</hi> 24. 10. and do you think the Prophet wanted your outward Orders to walk by, and ſo ſinned for want of it? When he ſaid, <hi>I pray thee, O my Lord, the King, let my Supplication I pray thee, be accepted before thee, Jer.</hi> 37. 20. And what if any <hi>Quaker</hi> now, in the true Fear of God, ſhould pull off his Hat to the King, (or civil Magiſtrate) and ſay, <hi>Your Servant my Lord, &amp;c.</hi> do you think he would be ever the worſe Man, if he did it from a true inward Sence of what was his Duty to the King? <hi>&amp;c.</hi> Or do you think it is not your Duty to ſerve them in Love, or becauſe ſo many do uſe this in Deceit, ſhall not a true Man uſe it at all? It cannot reaſonably be ſuppoſed that our King and Magiſtrates looketh to be bowed unto as Gods, upon the Score of Worſhip, becauſe they do allow ſo much Liberty of Conſcience; but for my part, I (and I do believe
+<pb n="4" facs="tcp:172592:3"/> Thouſands more) do know, that you Formal Quakers have not your Fellows among all ſorts of <hi>Proteſtants,</hi> for requiring and compelling (according to your Power) to be bowed down unto, in matter of Faith and Conſcience, in things relating to Worſhip: and you to cry out ſo againſt others for Giving and Receiving Honour or Ti<g ref="char:EOLhyphen"/>tles of Honour, as <hi>My Lord, &amp;c.</hi> counting it Blaſphemous Titles; See what a Father amongſt you received, as at large in the <hi>Quakers Principles, Doctrines, Laws</hi> and <hi>Orders,</hi> reprinted, p. 12, 13. which was taken out of ſome Letters ſent to <hi>G. F.</hi> in his Life time.</p>
+            <p>
+               <q>Dear <hi>G. Fox,</hi> Who art the Father of many Nations, whoſe Life reacheth thro' us thy Children: whoſe Being and Habitation is in the Power of the Higheſt; in which thou Ruleſt and Governs in Righteouſneſs, and thy Kingdom is Eſtabliſhed in Peace, and the Increaſe thereof is without end.—<hi>Joſiah Coal,</hi> dear and precious one, in whom my Life is bound up, and my Strength in thee ſtands; by thy Breathings I am nouriſhed, by thee my Strength is renewed, bleſſed art thou for evermore; Life and Strength comes from thee, Holy one,—dayly do I find thy Preſence with me: for I cannot reign but in thy Preſence and Power: Pray for us all, Pray for me, that I may ſtand in thy Dread for evermore. I am thine, Begotten and Nouriſhed by thee, and in thy Power am I preſerved. Glory to thee, Holy one, <hi>&amp;c. John Audland.</hi>
+               </q> If <hi>G. Fox</hi> had not liked theſe, why had he not buried it, and reprov<g ref="char:EOLhyphen"/>ed them that gave it; but inſtead of burying it, <hi>G. W.</hi> hath this Paſ<g ref="char:EOLhyphen"/>ſage in his <hi>Innocency againſt Envy,</hi> p. 18. Now, ſeeing a high Father (or King) amongſt you, received ſuch Titles, and another juſtifieth it as well as he can, in ſaying, How proves he? They gave and in<g ref="char:EOLhyphen"/>tended thoſe Names and Titles to the Perſon of <hi>G. F.</hi> and not to the Life of Chriſt in him, whereof he was a Partaker, <hi>&amp;c.</hi> The begin<g ref="char:EOLhyphen"/>ning of their Writing is Proof enough of it, <hi>Dear G. F. &amp;c.</hi> But if I take it in your Senſe, then why may not you as well bow and ſub<g ref="char:EOLhyphen"/>mit to the Life of Chriſt in the King; do you make a Reprobate of him, and refuſe to ſubmit upon that Score? O baſe, O baſe, my Brethren, when will you come to ſee the Spirit of Pride, which lead<g ref="char:EOLhyphen"/>eth you to ſay in your Hearts to others, <hi>Stand off, come not near me, I am Holier than thou;</hi> did thoſe, who bewitched the <hi>Galatians,</hi> (think you) uſe greater Socery than you.</p>
+            <p>But if you object, and ſay, We know God led us into theſe low outſide, as ſome may eſteem them, fooliſh things; and God may, and often does <hi>confound the VViſdom of the VViſe, and make their Know<g ref="char:EOLhyphen"/>ledge Fooliſh;</hi> and he does this often by weak and fooliſh means.</p>
+            <pb n="5" facs="tcp:172592:3"/>
+            <p>
+               <hi>Anſwer.</hi> That is true, and may not God do the ſame now to a Hypocritical People? Pray ſearch your ſelves with the Light you ſo much preach, and ſee where there be not a juſt Cauſe for the Lord to deal ſo by you.</p>
+            <p>Concerning Tyths; I do not believe Tyths to be due to any Goſ<g ref="char:EOLhyphen"/>pel-Miniſter by Divine Law, (neither do I believe that your King and Parliament would have ſettled it upon the Church, had it not been done before they came) yet nevertheleſs, I can pay it, and do find as much Peace in my Conſcience in doing of it, or more than I did in denying it; and I do now pay it, not for fear of wrath, but in Reference to the Example of Chriſt; who, altho' no Divine Law re<g ref="char:EOLhyphen"/>quired him to pay tribute, yet he paid it to an <hi>Heathen</hi> Emperour for Peace ſake (being an outward thing.) And his Apoſtle did ex<g ref="char:EOLhyphen"/>hort us to perform our Duty to the outward Power, ſet over us by God himſelf; St. <hi>Paul</hi> ſaith, <hi>Let every Soul be ſubject to the higher Power, Rom.</hi> 13. meaning the outward Power, concerning outward things, or elſe why did he ſay, <hi>For this cauſe pay you Tribute and Cuſtom;</hi> and when he writes to <hi>Titus,</hi> exhorts him to <hi>put others in mind to obey Ma<g ref="char:EOLhyphen"/>giſtrates, Titus</hi> 3. 1. and <hi>Peter</hi> ſaith, <hi>Submit your ſelves to every Ordi<g ref="char:EOLhyphen"/>nance of Man for the Lords ſake, &amp;c.</hi> 1 Pet. 2. 13. 14. Now ſome <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> have expounded <hi>Peter</hi> thus, <hi>for the Lords ſake,</hi> (mind that, ſay they) that Ordinance of Man which upholds <hi>Antichristian</hi> Laws, (as that of Tyths) cannot be for the Lords ſake; and therefore ex<g ref="char:EOLhyphen"/>horts to bear a Teſtimony againſt them; but pray Brethren, is not this to revile the King and Government, and ſo againſt the manner of Chriſt, the Prophet <hi>Jeremiah,</hi> the Apoſtles, and alſo againſt the Law of <hi>Moſes,</hi> who ſaid, <hi>Thou ſhalt not revile, Exodus</hi> 22 28. And with what an Impudent Face can you ſuppoſe the King and Parliament have not as Lawful Power under God to make Ordinances con<g ref="char:EOLhyphen"/>cerning outward things, and to require a Submiſſion of the People in general, as <hi>G. Fox</hi> had, and <hi>G. Whitehead</hi> and his Councel hath over their People in particular. If you ſay, you believe they have a Lawful Power to make Ordinances concerning outward things, then ſay I, Why do not you teach the People actually to ſubmit? Do you think a good Conſcience leadeth you to ſuffer for a Teſtimony againſt a Lawful Power? or do you think, becauſe ſome have expounded <hi>Paul</hi> to the <hi>Romans</hi> thus, <hi>Let every Soul he ſubject to the higher Power, for there is no Power but of God;</hi> that is, ſay they, the Power of Truth within, which we are ſetting up; that is it, the Soul ſhould ſubmit unto, and it is upon this Score; that they teach the People, not to ſubmit actual<g ref="char:EOLhyphen"/>ly to the outward Supream Power; do you think the Supream Power
+<pb n="6" facs="tcp:172592:4"/> have not as much Divine Law on their ſide, for that Ordinance of Tyths, as you formal <hi>Quakers</hi> have for your Ordinance of Womens Meetings, diſtinct by themſelves, and apart from the Men? Pray, Bre<g ref="char:EOLhyphen"/>thren mind the Exhortation of the Prophet, who ſaid to the Church in his Age, <hi>Bring your Necks under the Yoke of the King of</hi> Babylon, <hi>and ſerve him; for why will ye dye? Jerem.</hi> 27. 11. I believe (if any doſuppoſe ſo) you will not ſay; King <hi>William</hi> is one of the Kings of <hi>Babylon;</hi> but if a Spi<g ref="char:EOLhyphen"/>rit of Pride and Impoſition over others Conſcience be ſome of the Marks of <hi>Babylon</hi>'s Kings; then <hi>G. Fox</hi> was, and <hi>G. VVhitehead</hi> is more like Kings of <hi>Babylon,</hi> than King <hi>VVilliam.</hi> But ſome may ſay, <hi>Jer.</hi> 51. 6. ſaith, <hi>Flye out of the midſt of</hi> Babylon, <hi>and deliver every Man; his Soul be not cut off in her Iniquity, for this is the time of the Lord's Ven<g ref="char:EOLhyphen"/>geance.</hi> Very well, this compared, ſeemeth as tho' that might be allowed in Captivity, which might not in Deliverance; ſo if you could look back, and conſider how little your Work (in throwing down Tyths) is the forwarder for Forty Years Labour in Sufferings, you might have good Ground to kneel down in Obedience and Peace in the Will of your Heavenly Father, praying him (in his time) by the Supream Power, to take off that, and all other Burthens from the Poor: and this your Obedience might be better in his ſight, than all your Offerings againſt the King's Law. But to ſtrive ſo hard for your De<g ref="char:EOLhyphen"/>liverance before the Lord's time, you may bring your ſelves the more into Bondage.</p>
+            <p>And again, you <hi>Quakers,</hi> that are ſo much for your own Rights and Properties, what good reaſon can you ſhew againſt the Impropria<g ref="char:EOLhyphen"/>tors Tyths? you deny that alſo (which does not go to maintain a falſe Worſhip) are there not many Widows and Fatherleſs Children, whoſe Maintenance lieth altogether in that? will you allow them other Maintenance, if you could keep that from them? Doth your pretending that you are led by a Divine Power, give you a Preroga<g ref="char:EOLhyphen"/>tive to do an unjuſt thing? But this is the <hi>Quakers</hi> great reaſon againſt the Prieſt's Tyths, they ſay it goes to maintain a falſe Worſhip, and to maintain God's Enemies. <hi>Anſwer,</hi> It was the manner of Hypocrites to diſcern Moats in their Brothers Eyes, when they did not ſee the Beam in their own, (ſo before you ſtone others for Adultery, cleanſe your ſelves;) Does not the Prieſt preach, <hi>God was in Chriſt, Reconciling the World to himſelf, not imputing their Sin,</hi> and alſo layeth the danger of Sin before them, which goeth on in it after a wilful manner? and ſo he ſets before the People the Joys of Heaven, and Terrros and Pains of Hell; and them Prieſts, which do perform in their place, what they believe is their Duty to God according to the Light and
+<pb n="7" facs="tcp:172592:4"/> Knowledge God hath given them; why may not they find Merc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Lord, as well as you? and if God have beſtowed more upon you, than he hath upon them, and you walk not anſwerable (as ma<g ref="char:EOLhyphen"/>ny of you do not) you will be <hi>worthy of more Stripes;</hi> and as for their being God's Enemies, if it be ſo, it is your Duty to leave Judgment and Vengeance to the Lord.</p>
+            <p>But ſuppoſe the King and Parliament ſhould hearken to you <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> ſo as to throw down the Tyths, Church and Prieſts altogether; (what would become of all the Babes and Lambs amongſt them, your Breaſts would be unnatural to them?) it would kindle ſuch a Fire and Flame about their Ears, that all the Wiſdom and Power you have would not be able to quench it. So it would be more Wiſdom to heark<g ref="char:EOLhyphen"/>en to <hi>Jeremiah</hi> and <hi>Peter,</hi> (at this time) and ſubmit to this Ordinance of Man for the Lord's <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake: then you would ſhew your ſelves a little more like the Lord, which is a Power of Love to all; but if you have but little of this at Heart, then exerciſe ſomething of Chriſtian Prudence in ſubmitting, and <hi>let your Moderation be ſeen to all Men; for who know<g ref="char:EOLhyphen"/>eth how nigh the Day of the Lord is at hand, to render a Recompence to eve<g ref="char:EOLhyphen"/>ry one according to his VVorks.</hi> The Quakers may ſay to me, If it were upon ſome other account, I could pay it, but this I cannot pay: Come, I will reaſon a little with you, why cannot you ſubmit to this Ordinance, as well as ſome other, which ſome of you have declared againſt, as well as you did againſt this, <hi>viz.</hi> againſt Fighting; you ſaid you could not pay to the maintaining of that which was for the deſtroying Men's Lives with carnal Weapons; but you have payed to<g ref="char:EOLhyphen"/>wards the former Wars againſt <hi>Holland,</hi> and do pay now; which doubtleſs have, and will deſtroy a Multitude of Men's Lives. Now, my Brethren, why ſhould you be ſo much againſt this outward Ordi<g ref="char:EOLhyphen"/>nance of Tyths, which was never ordained to deſtroy Men's Lives, but rather to ſave their Lives by feeding them; and as the Caſe ſtands now, you are not bound to joyn in their Worſhip, but by giving ſo much Money or Goods, (which are but outward things) here is nothing required of bowing to it in your Hearts or Minds.</p>
+            <p>And again, when I in Weakneſs did refuſe to pay Tyths, the Miniſter was ſo fair to me, he ſaid, <hi>If you cannot give it me as my due, give it me out of Charity, and give me what you will:</hi> yet I took the Advice of the Quakers, and went to Goal; and when I and o<g ref="char:EOLhyphen"/>thers were there, we were ready to ſeek ſuch Favour of the Gaoler as the Prieſt offered; and if he would ſhew us any kindneſs, and leave us to our Freedom, we were very ready to give him a Reward; and ſo concerning his Fees, which was judged as unfit to be paved as
+<pb n="8" facs="tcp:172592:5"/> Tyths; yet, if he would leave it to us, if we gave him as much, or more This was not judged a miſs.</p>
+            <p>Now, to conclude, although I may erre or fail through Weak<g ref="char:EOLhyphen"/>neſs; yet I cannot be a Heretick, becauſe I do what I believe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my Duty.</p>
+            <q>
+               <p>
+                  <hi>They have ſpoken againſt me with a lying Tongue: They compaſſed me about with words of Hatred, and fought againſt me without a cauſe. For my love they are my Adverſaries, but I give my ſelf unto Prayer,</hi> 
+                  <bibl>Pſal 109. 2, 3, 4, 5.</bibl>
+               </p>
+            </q>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for the Author, and are to be Sold by <hi>J. Gwillim,</hi> Bookſeller, over againſt the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> James,</hi> in <hi>Biſhopſgate-ſtreet:</hi> and <hi>Edw. Swaine,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the <hi>Faulcon-ſtairs,</hi> near the <hi>Bank-ſide, in</hi> South<g ref="char:EOLhyphen"/>wark. 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
